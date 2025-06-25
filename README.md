@@ -1,4 +1,4 @@
-#🧾 POAP Minting dApp
+# 🧾 POAP Minting dApp
 A decentralized application that allows event organizers to mint and distribute Proof of Attendance Protocol (POAP) NFTs as soulbound tokens to event participants.
 
 # 🚀 Features
