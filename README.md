@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 #🧾 POAP Minting dApp
 A decentralized application that allows event organizers to mint and distribute Proof of Attendance Protocol (POAP) NFTs as soulbound tokens to event participants.
 
@@ -22,19 +20,19 @@ A decentralized application that allows event organizers to mint and distribute 
  cd poap-minting-app 
 
 3) Install Dependencies (IMPORTANT)
- # npm install
+4) npm install
 
-4) Configure Environment
+5) Configure Environment
 Create a .env file in the root of the project and add your Web3.Storage API token.
-# VITE_WEB3STORAGE_TOKEN=your_web3_storage_api_token_here
+VITE_WEB3STORAGE_TOKEN=your_web3_storage_api_token_here
 
 5) Add Your Smart Contract Info
 Update the following:
-# src/contract/PoapContract.js with your contract address
-# src/PoapABI.json with your deployed contract's ABI
+src/contract/PoapContract.js with your contract address
+src/PoapABI.json with your deployed contract's ABI
 
 6) Start the Development Server
-# npm start
+npm start
 The app will run at: http://localhost:3000
 
 # 💡 Usage Guide
